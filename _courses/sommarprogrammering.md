@@ -11,8 +11,9 @@ Kursen har getts tidigare på KTH, men i ett annat system.
 Välkommen att gå kursen, antingen genom att skapa ett konto (då kommer systemet att komma ihåg dina svar på frågor och du kan se var du redan har varit i kursen), eller utan konto (men då får du själv hålla reda på vad du gjort).
 {: .notice .notice--success}
 
-[Anmäl dig som gäst](https://proton.oli.cmu.edu/sections/sommarprogrammering21){: .btn .btn--primary .btn--large}
+
 [Skapa konto](https://proton.oli.cmu.edu/registration/new?section=sommarprogrammering21){: .btn .btn--primary .btn--large}
+[Gå in som gäst](https://proton.oli.cmu.edu/sections/sommarprogrammering21){: .btn .btn--primary .btn--large}
 [Logga in](https://proton.oli.cmu.edu/session/new?section=sommarprogrammering21){: .btn .btn--primary .btn--large}
 
 Denna kurs är avsedd för dig som sökt in till högskola eller
@@ -42,8 +43,8 @@ i syfte att få en god grund i datoranvändning och programmering inför högsko
 
 <!-- Button to Sign Up for Course -->
 <!-- [Gå den här kursen](){: .btn .btn--primary .btn--large} -->
-[Anmäl dig som gäst](https://proton.oli.cmu.edu/sections/sommarprogrammering21){: .btn .btn--primary .btn--large}
 [Skapa konto](https://proton.oli.cmu.edu/registration/new?section=sommarprogrammering21){: .btn .btn--primary .btn--large}
+[Gå in som gäst](https://proton.oli.cmu.edu/sections/sommarprogrammering21){: .btn .btn--primary .btn--large}
 [Logga in](https://proton.oli.cmu.edu/session/new?section=sommarprogrammering21){: .btn .btn--primary .btn--large}
 
 
