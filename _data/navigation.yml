@@ -1,0 +1,6 @@
+# main links
+main:
+  - title: "Student Sign Up"
+    url: "https://kth.oli.cmu.edu/jcourse/webui/register/student.do"
+  - title: "Sign In"
+    url: /signin/
